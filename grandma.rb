@@ -5,8 +5,10 @@ def speak_to_grandma(words)
     "I LOVE YOU TOO PUMPKIN!"
   elsif words == words.upcase
     puts "NO, NOT SINCE 1938!"
+    "NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
 
